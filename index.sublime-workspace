@@ -1,0 +1,559 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"green",
+				"greenyellow"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"esti",
+				"estilo-formulario"
+			],
+			[
+				"line",
+				"linear-gradient()"
+			],
+			[
+				"background-",
+				"background-repeat"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"c",
+				"css"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"e",
+				"estilo-formulario"
+			],
+			[
+				"marig",
+				"margin-right"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"repe",
+				"repeat-y"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"conteud",
+				"conteudoprincipal"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"i",
+				"inset"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"area",
+				"area-postagens"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ligh",
+				"lightcoral"
+			],
+			[
+				"not",
+				"noticia"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bl",
+				"blue"
+			],
+			[
+				"red",
+				"indianred"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"font-",
+				"font-synthesis"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"gre",
+				"grey"
+			],
+			[
+				"grey",
+				"darkgrey"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"em",
+				"em"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 693,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Home PC/Documents/UDEMY/Projeto Chalé Hotel/index.html",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto jornal/css/estilo.css",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto jornal/nacional.html",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto jornal/fotos.html",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto jornal/index.html",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto jornal/ciencia.html",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto jornal/economia.html",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto jornal/internacional.html",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto jornal/saude.html",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto jornal/css/imagens/nacional.htm",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/navegacao-horizontal.html",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/css/estilo-horizontal.css",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/css/estilo-formulario.css",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/aredondamentos.html",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/face.html",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/formulario2.html",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/formularios.html",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/css/estilo-tabela.css",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/tabelas.html",
+		"/C/Users/Home PC/Documents/UDEMY/tabela.htmç",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/css/face.css",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/layout.html",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/css/TENTA.CSS",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/TENTA.HTML",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/css/estilo-layout.css",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/layout-fluido.html",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/css/layout-fluido.css",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/index.html",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/css/abas.css",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/navegacao-abas.html",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/css/estilo.css",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/css/imagens/divisor.png",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/navegacao-vertical.html",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/css/imagens/estilo-horizontal.css",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/servico.html",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/sobre.html",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/css/imagens/menu.png",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/css/herança.css",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/herança.html",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/css/seletores.css",
+		"/C/Users/Home PC/Documents/UDEMY/CSS3 intermediario e avançado/seletores.css",
+		"/C/Users/Home PC/Documents/UDEMY/CSS intermediario e avançado/seletores.css",
+		"/C/Users/Home PC/Documents/UDEMY/CSS intermediario e avançado/index.html",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto TecBlog/css/estilo.css",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto TecBlog/index.html",
+		"/C/Users/Home PC/Documents/UDEMY/Porjeto TecBlog/index.html",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto CSS intermediario/estilo3.css",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto CSS intermediario/formatando-link.html",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto CSS intermediario/sobrepondo-elementos.html",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto CSS intermediario/estilo2.css",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto CSS intermediario/posicionamentos.html",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto CSS intermediario/elementos-inline-block.html",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto CSS intermediario/elementos-flutuantes.html",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto CSS intermediario/estilo.css",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto CSS intermediario/modelo-caixa.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto AnnaBella/estilo.css",
+		"/C/Users/Home PC/Documents/UDEMY/projeto AnnaBella/contato.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto AnnaBella/campanha.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto AnnaBella/biografia.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto AnnaBella/index.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto Anna Bella/index.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto Anna Bella/contato.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto Anna Bella/biografia.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto Anna Bella/campanha.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto Anna Bella/estilo.css",
+		"/C/Users/Home PC/Documents/UDEMY/projeto CSS3/estilo.css",
+		"/C/Users/Home PC/Documents/UDEMY/projeto CSS3/pagina2.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto CSS3/pagina1.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto CSS3/cor-img-fundo.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto CSS3/estilo-texto.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto CSS3/tamanhos.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto CSS3/fontes.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto CSS3/bordas.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto CSS3/div-span.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto CSS3/classe_ids.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto CSS3/inline-styleCSS.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto UNES/contato.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto UNES/quem.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto UNES/index.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto aula/index.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto aula/login.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto aula/bancodetalentos.html",
+		"/C/Users/Home PC/Documents/UDEMY/Projeto Web/index.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto aula/galeria.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto aula/orcamento.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto aula/pos-vendas.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto aula/contato.html",
+		"/C/Users/Home PC/Documents/UDEMY/projeto aula/CSS/style.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 693,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
